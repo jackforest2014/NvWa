@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{92D01BD1-A09E-4F73-A7D4-F3E7DFE53A4F}</ProjectGuid>
-    <RootNamespace>NuWa</RootNamespace>
+    <ProjectGuid>{10046406-7D76-4A1D-8890-8CF60B722DF8}</ProjectGuid>
+    <RootNamespace>Memory</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

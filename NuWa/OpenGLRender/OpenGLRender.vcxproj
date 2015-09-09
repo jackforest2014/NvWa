@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{92D01BD1-A09E-4F73-A7D4-F3E7DFE53A4F}</ProjectGuid>
-    <RootNamespace>NuWa</RootNamespace>
+    <ProjectGuid>{01BBA0D9-4406-4F1A-A098-21CC40D5F85C}</ProjectGuid>
+    <RootNamespace>OpenGLRender</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

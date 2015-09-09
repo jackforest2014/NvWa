@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{92D01BD1-A09E-4F73-A7D4-F3E7DFE53A4F}</ProjectGuid>
-    <RootNamespace>NuWa</RootNamespace>
+    <ProjectGuid>{C3D94C4E-68B7-4D94-B9D1-FC87B0E2B409}</ProjectGuid>
+    <RootNamespace>DX11Render</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
